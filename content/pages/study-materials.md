@@ -16,4 +16,4 @@ These materials are used to support the documents in the [assignments]({{< baseu
     
 *   Studio Light Grid ([PDF]({{< baseurl >}}/resources/stud_lght_grid))
     
-*   Q Synopsis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q_synopsis))
+*   Q Synopsis ([PDF]({{< baseurl >}}/resources/q_synopsis))
